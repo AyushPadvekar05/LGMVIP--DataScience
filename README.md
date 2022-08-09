@@ -1,7 +1,7 @@
 
 # Machine Learning Project
 
-## LGM VIRTUAL INTERNSHIP PROGRAM August 2021
+## LGM VIRTUAL INTERNSHIP PROGRAM August 2022
 
 ## • BEGINNER LEVEL
 
